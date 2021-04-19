@@ -23,10 +23,10 @@ Future Projects:
 - Use text-speech cognitive service on Azure
 
 _____
-Get Tutorial and Follow Along:
+Great Tutorial and Follow Along:
 https://www.youtube.com/watch?v=aimSGOAUI8Y&t=503s
 
-Helpful Information and Troubleshooting:
+Helpful Information and Troubleshooting Github:
 https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi
 
 
