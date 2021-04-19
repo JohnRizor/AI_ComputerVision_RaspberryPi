@@ -26,7 +26,7 @@ _____
 Great Tutorial and Follow Along:
 https://www.youtube.com/watch?v=aimSGOAUI8Y&t=503s
 
-Helpful Information and Troubleshooting Github:
+Information and Troubleshooting Resource Github:
 https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi
 
 
