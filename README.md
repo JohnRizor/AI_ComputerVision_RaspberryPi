@@ -1,7 +1,7 @@
 <h1 align="center">Raspberry Pi Computer Vision </h1>
 
 _______
-The purpose of this project was to gain knowledge utilizing computer vision and APIs. I was able to program my Raspberry Pi to utilize TensorFlow in Python to analyze webcam video into objects known by the computer. This is just one step into understanding the capabilities of AI and Machine Learning. The computer vision database used during this project was Microsofts Common Objects in Context (COCO) and Microsoft Azure Computer Vision cognitive service.
+The purpose of this project was to gain knowledge utilizing computer vision and APIs. I was able to program my Raspberry Pi to utilize TensorFlow in Python to analyze webcam video into objects known by the computer. This is just one step towards understanding the capabilities of AI and Machine Learning. The computer vision database used during this project was Microsofts Common Objects in Context (COCO) and Microsoft Azure Computer Vision cognitive service.
 _______
 <img src="Images/IMG_2371.jpg" align="center"></img>
 ______
