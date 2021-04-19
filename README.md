@@ -1,7 +1,7 @@
 <h1 align="center">Raspberry Pi Computer Vision </h1>
 
 _______
-The purpose of this project was to gain knowledge utilizing computer vision and APIs. I was able to program my Raspberry Pi to utilize TensorFlow in Python to analyze webcam video into objects known by the computer. This is just one step into understanding the capabilities of AI and Machine Learning. The computer vision database used during this project was Microsofts COCO (Common Objects in Context) and Microsoft Azure Computer Vision cognitive service.
+The purpose of this project was to gain knowledge utilizing computer vision and APIs. I was able to program my Raspberry Pi to utilize TensorFlow in Python to analyze webcam video into objects known by the computer. This is just one step into understanding the capabilities of AI and Machine Learning. The computer vision database used during this project was Microsofts Common Objects in Context (COCO) and Microsoft Azure Computer Vision cognitive service.
 _______
 <img src="Images/IMG_2371.jpg" align="center"></img>
 ______
@@ -34,6 +34,6 @@ https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-a
 
 <img src="Images/IMG_2373.jpg" align="center"></img>
 
-*Common Objects in Centext is not always the most accurate... Apparently I have a pet bear!*
+*Common Objects in Context is not always the most accurate... Apparently I have a pet bear!*
 
 <img src="Images/IMG_2374.jpg" align="center"></img>
