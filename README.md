@@ -18,9 +18,10 @@ Lessons Learned:
 - Train a computer using Custom Vision
 
 
-Future Projects:
+Improvements:
 - Build a more indepth Custom Vision database on Azure
 - Use text-speech cognitive service on Azure
+- Learn more about APIs
 
 _____
 Great Tutorial and Follow Along:
