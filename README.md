@@ -16,6 +16,7 @@ Lessons Learned:
 - Implementing an Azure resource API in Python
 - Object Detection with Computer Vision
 - Train a computer using Custom Vision
+- Use APIs to use their trained object detection system
 
 
 Improvements:
